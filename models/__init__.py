@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-"""This module instantiates an object of class FileStorage"""
 from os import environ
 from models.base_model import BaseModel
 from models.user import User
